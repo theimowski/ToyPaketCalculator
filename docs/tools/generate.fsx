@@ -11,17 +11,17 @@
 // (This is the original behaviour of ProjectScaffold prior to multi project support)
 let referenceBinaries = []
 // Web site location for the generated documentation
-let website = "/##ProjectName##"
+let website = "/ToyPaketCalculator"
 
-let githubLink = "http://github.com/##GitHome##/##GitName##"
+let githubLink = "http://github.com/theimowski/ToyPaketCalculator"
 
 // Specify more information about your project
 let info =
-  [ "project-name", "##ProjectName##"
-    "project-author", "##Author##"
-    "project-summary", "##Summary##"
+  [ "project-name", "ToyPaketCalculator"
+    "project-author", "Tomasz Heimowski"
+    "project-summary", "Toy Calculator project in F# for the purpose of demonstating paket.local feature"
     "project-github", githubLink
-    "project-nuget", "http://nuget.org/packages/##ProjectName##" ]
+    "project-nuget", "http://nuget.org/packages/ToyPaketCalculator" ]
 
 // --------------------------------------------------------------------------------------
 // For typical project, no changes are needed below

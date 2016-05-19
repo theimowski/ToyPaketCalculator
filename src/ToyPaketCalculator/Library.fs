@@ -1,4 +1,4 @@
-﻿namespace FSharp.ProjectTemplate
+namespace ToyPaketCalculator
 
 /// Documentation for my library
 ///

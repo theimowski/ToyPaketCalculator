@@ -1,6 +1,6 @@
-﻿module FSharp.ProjectScaffold.Tests
+module ToyPaketCalculator.Tests
 
-open FSharp.ProjectTemplate
+open ToyPaketCalculator
 open NUnit.Framework
 
 [<Test>]

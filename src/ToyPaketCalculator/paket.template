@@ -1,0 +1,25 @@
+type project
+title
+    ToyPaketCalculator
+owners
+    Tomasz Heimowski
+authors 
+    Tomasz Heimowski
+projectUrl
+    http://github.com/theimowski/ToyPaketCalculator
+iconUrl
+    https://raw.githubusercontent.com/theimowski/ToyPaketCalculator/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/theimowski/ToyPaketCalculator/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    Paket FAKE F# Git
+summary
+    Toy Calculator project in F# for the purpose of demonstating paket.local feature
+description
+    Toy Calculator project in F# for the purpose of demonstrating paket.local feature, which enables testing new NuGet packages before releasing
+
+
